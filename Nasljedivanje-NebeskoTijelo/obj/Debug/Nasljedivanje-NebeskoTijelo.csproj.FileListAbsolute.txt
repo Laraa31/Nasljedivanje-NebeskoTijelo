@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Nasljedivanje-NebeskoTijelo\bin\Debug\Nasljedivanje-NebeskoTijelo.exe.config
+C:\Users\ucenik\source\repos\Nasljedivanje-NebeskoTijelo\bin\Debug\Nasljedivanje-NebeskoTijelo.exe
+C:\Users\ucenik\source\repos\Nasljedivanje-NebeskoTijelo\bin\Debug\Nasljedivanje-NebeskoTijelo.pdb
+C:\Users\ucenik\source\repos\Nasljedivanje-NebeskoTijelo\obj\Debug\Nasljedivanje-NebeskoTijelo.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Nasljedivanje-NebeskoTijelo\obj\Debug\Nasljedivanje-NebeskoTijelo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Nasljedivanje-NebeskoTijelo\obj\Debug\Nasljedivanje-NebeskoTijelo.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Nasljedivanje-NebeskoTijelo\obj\Debug\Nasljedivanje-NebeskoTijelo.exe
+C:\Users\ucenik\source\repos\Nasljedivanje-NebeskoTijelo\obj\Debug\Nasljedivanje-NebeskoTijelo.pdb

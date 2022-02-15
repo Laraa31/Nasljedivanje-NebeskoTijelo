@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nasljedivanje-NebeskoTijelo", "Nasljedivanje-NebeskoTijelo.csproj", "{0DB8D2B3-160C-4618-88F0-1D5886DE6760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DB8D2B3-160C-4618-88F0-1D5886DE6760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB8D2B3-160C-4618-88F0-1D5886DE6760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB8D2B3-160C-4618-88F0-1D5886DE6760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB8D2B3-160C-4618-88F0-1D5886DE6760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0781B1-CAAC-46AB-B3F5-57F3514AD5DE}
+	EndGlobalSection
+EndGlobal
